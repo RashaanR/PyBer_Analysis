@@ -4,7 +4,10 @@ The purpose of the this analysis was to summarize how the data differs by city t
 ## Results: 
 Once gathering all the data we can see that majority of the fare revenue is coming from Urban cities with a total of almost $40,000. This is double of the 
 the suburban fare revenunue which sits at almost $20,000 and about ten times the amount of rural fares which is around $4,000. As for time of the year we can
-see that fares start to decrease in peak of winter and start to pick back up mid spring.   
+see that fares start to decrease in peak of winter and start to pick back up mid spring.
+
+![Challenge PNG](https://user-images.githubusercontent.com/106290370/176610020-0e3d0ece-492a-4aa6-9d72-2b45f4d4ddfa.png)
+
 ## Summary: 
 Based on the results, I would suggest that take the little revenue from rural fares and allocate towards it towards having a heavy marketing presence in urban 
 cities so we can gain even more drivers since that seems to be our best performing demographic. Instead of having an emphasis on what drivers could make per fare, 
